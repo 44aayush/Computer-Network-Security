@@ -1,2 +1,2 @@
 # Computer-Network-Security
-SEED Lab of Computer Networks Security
+SEED Lab and Assignment of Computer Networks Security
