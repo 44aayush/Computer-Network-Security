@@ -1,6 +1,12 @@
 Virginia Evans - CIO
 MANDIANT - CyberSecurity firm
+Pat Hogan - COO
 Dana German - Senior Director for startegic projects and initiatives
+
+July 15 => Detection
+August 14-16 => Going Dark
+
+US office of personnel management - 21 m+ PII
 
 THREE MOST COMMAN ATTACK METHODS:
 	1. Spear Phishing - * Evolved from phishing, involved millions of e-mailss asking the victims to click on a malicious link or download an infected file.
@@ -13,7 +19,7 @@ THREE MOST COMMAN ATTACK METHODS:
 	3. Zero-Day Exploits - * Not publicly known and did not have a patch or workaround available to fix the securiy hole.
 		* Severe and very difficult to detect and mitigate. 24 zero-day were reported.
 
-Most Common way to mitigate all three attackws was through "defense in depth". DID or Castle Defenses, was a layered approach originally concived as a ,ilitary tactic.
+Most Common way to mitigate all three attacks was through "defense in depth". DID or Castle Defenses, was a layered approach originally concived as a ,ilitary tactic.
 	Outer Wall - Proetct Citizens
 	Castle - Important Resources
 	Keep - Protect most valuable assets
@@ -30,6 +36,8 @@ Most Common way to mitigate all three attackws was through "defense in depth". D
 		and react to security incidents as they occured.
 
 In UVA's case, the cyberattack was detected by a federal government agency that promplty notified UVA's CIO -> EVANS
+
+7 member team - OMAHA
 
 1. Call Mandiant
 2. Get a contract (REMEDIATION) signed with Mandiant, which cleared UVA's Procurement Office in record time.
@@ -52,45 +60,3 @@ Challenges:
  2. Scheduling conflict with UVA program and events
  3. Potential technical or human resource issues
  4. System documentation shortcomings
-
-
-
-
-
-
-
-
-
-
-
-
-
-4. When and how should the success of the Phoenix Project be evaluated? 
- The Phoenix Project should be evaluated following its completion at various intervals to determine its success. After the go-dark phase would be an ideal time for the first evaluation
-	where we would test the adjustments made to the systems and test the strength of its security. I think that there should be evaluations quarterly to ensure the integrity of the system and to protect against any future threats.
-
- University of Virginia surely falls into the category of a high reliability organization as throughout its process of counteracting its cyberattack, they followed a great deal of these best practices. One practice the university strongly
-	exhibited was resilience. Virginia Evans understood that because cyberattacks operate in complex and nuanced ways, it was important the university’s solution to the attack was just as rigorous. Over the span of three weeks,
-	Evans worked with a team of professionals to assess the extent of the intrusion. Upon finding 62 servers had been compromised, they formed an initiative to resolve the attack, The Phoenix Project.
-
-
-5. What lessons can you draw from this case for prevention and response to cyber breaches?
- In terms of prevention I have realized that sometimes it is impossible to prevent an attack from happening, even with a crack IT and InfoSec team. However, when full-fledged prevention 
-	is not an option it is vital to have a well-trained team in place to deal with the attack.As I read the case, I immediately think about responses to cyber breaches, and how well executed the 
-	response from Evans and her team was to the attack. I fell as though she presented an incredibly well thought out plan that covered all the bases when it came to identifying the attackers, the damage done, 
-	and then fixing it in a timely manner. All in all I fell as though this case highlighted what an effective response would resemble and how to ensure the it is successfully implemented.
-
-
-1. Describe each of the five objectives of the Phoenix Project. What level of effort would be required to accomplish these objectives?
- The first objective is to determine the extent of the intrusion, which is basically means that the level and extent of the intrusion must be assessed thoroughly to understand what has happened in terms of the information that the attackers gained access to.
- The second objective is to develop a remediation plan, which as stated in the article is, “A detailed plan for addressing system deficiencies…” So, for the second objective a plan must be devised focusing on what the deficiencies are
-	in the old system and how they must be fixed as well as planning a time to initiate a “go-dark phase” to activate all of the fixes within the system. 
- The third objective is to execute the remediation plan, which means that everything that was decided in the second object will be put into fruition. According to the article this includes, tracking foreign attacker activities and 
-	responding as necessary, developing methods of procedure to rebuild and protect critical applications and data on the compromised systems, identifying all workstations impacted by the intrusion, 
-	evaluating UVA’s password-management system, preparing to support end users during and after the go-dark phase, and communicating with all internal and external constituencies. 
- The fourth objective is hardening UVA’s defenses, which means that UVA has to 
-
-
-
-
- 
