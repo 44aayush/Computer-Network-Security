@@ -59,4 +59,8 @@ Challenges:
  1. What might happen if the security compromise becomes public
  2. Scheduling conflict with UVA program and events
  3. Potential technical or human resource issues
+<<<<<<< HEAD
  4. System documentation shortcomings
+=======
+ 4. System documentation shortcomings
+>>>>>>> 21c9bffd983e044ef89ff5348c5ff84b108de81f
